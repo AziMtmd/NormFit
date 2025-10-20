@@ -29,9 +29,14 @@ cd NormFit
 
 Please cite our paper if you find this repository useful:
 
-```
-Anonymous Authors, "NormFit: A Lightweight Solution for Few-Shot Federated Learning with Heterogeneous and Imbalanced Data," submitted to ICML 2025.
-```
+### 📚 Citation
+```bibtex
+@inproceedings{motamedi2025normfit,
+  title={NormFit: A Lightweight Solution for Few-Shot Federated Learning with Non-IID Data},
+  author={Motamedi, Azadeh},
+  booktitle={NeurIPS},
+  year={2025}
+}
 
 ## License
 
